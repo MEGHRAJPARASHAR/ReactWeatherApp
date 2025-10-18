@@ -1,17 +1,93 @@
-# React + Vite
+# 🚀 React Learning Journey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **React Learning Progress Repository** — a personal documentation of everything I’ve learned so far while mastering React.js.  
+This repo tracks my concepts, hands-on practice, and upcoming goals.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✅ Topics I've Covered So Far
 
-## React Compiler
+### 1. 🧩 Core React Fundamentals
+- ✅ Creating functional components  
+- ✅ JSX syntax and expressions  
+- ✅ Component composition (Parent–Child relationships)  
+- ✅ File structure and organization  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 2. ⚙️ State Management
+- ✅ `useState` hook for local component state  
+- ✅ Functional state updates (`prev => ...`)  
+- ✅ Derived state (computed values based on state)  
+- ✅ Conditional rendering (`{toggle && <Component />}`)  
 
-## Expanding the ESLint configuration
+### 3. 🔁 Props & Data Flow
+- ✅ Passing props between components  
+- ✅ Props destructuring  
+- ✅ Lifting state up (passing setter functions down)  
+- ✅ Component composition patterns  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# ReactWeatherApp
+### 4. 🌐 Effects & Lifecycle
+- ✅ `useEffect` hook for side effects  
+- ✅ Dependency arrays and cleanup functions  
+- ✅ API data fetching  
+- ✅ Local storage persistence  
+
+### 5. 🖱️ Event Handling
+- ✅ Click events (`onClick`)  
+- ✅ Input handling (`onChange`)  
+- ✅ Form submission  
+- ✅ Keyboard events (`onKeyDown`)  
+
+### 6. 🎨 Styling Approaches
+- ✅ CSS classes with **Tailwind CSS**  
+- ✅ Conditional and dynamic styling  
+- ✅ Responsive design principles  
+- ✅ Using icons from **react-icons**  
+
+### 7. 🔄 Rendering Patterns
+- ✅ List rendering with `.map()`  
+- ✅ Keys in lists  
+- ✅ Conditional rendering techniques  
+- ✅ Loading and error states  
+
+---
+
+## 🧭 Topics to Explore Next
+
+### 1. ⚡ Advanced Hooks
+- ❓ `useReducer` – Manage complex state logic  
+- ❓ `useContext` – Global state sharing  
+- ❓ `useRef` – Accessing and manipulating DOM elements  
+- ❓ `useMemo` & `useCallback` – Performance optimization  
+- ❓ Custom Hooks – Reusable stateful logic  
+
+### 2. 🛣️ Routing
+- ❓ Multi-page navigation with **React Router**  
+- ❓ Dynamic routes & parameters  
+- ❓ Protected/private routes  
+- ❓ Navigation guards  
+
+### 3. 🧠 Advanced State Management
+- ❓ Context API for global data  
+- ❓ Redux / Redux Toolkit  
+- ❓ Modern lightweight alternatives (Zustand, Jotai)  
+- ❓ Persisting state across reloads  
+
+---
+
+## 🧰 Tech Stack
+- **React.js** ⚛️  
+- **Tailwind CSS** 🎨  
+- **JavaScript (ES6+)**  
+- **Vite** for fast development environment  
+
+---
+
+## 🧑‍💻 Author
+**Meghraj** — BCA Student, exploring full-stack web development with MERN Stack.  
+Learning React one project at a time 💡  
+
+---
+
+> _“Don’t just learn React — understand how React thinks.”_  
+> — Keep building, keep breaking, and keep improving.
+
